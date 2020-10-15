@@ -7,7 +7,7 @@ redirect_from:
 permissions: 'People with read permissions to the `github/insights-releases` repository and administrative access to the application server can update {% data variables.product.prodname_insights %}.'
 versions:
   free-pro-team: '*'
-  enterprise-server: '*'
+  Chinaperez82: '*'
 ---
 
 ### About {% data variables.product.prodname_insights %} updates
